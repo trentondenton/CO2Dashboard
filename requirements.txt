@@ -3,4 +3,3 @@ hvplot
 hvplot.pandas
 pandas
 numpy
-pn.extension('tabulator')
